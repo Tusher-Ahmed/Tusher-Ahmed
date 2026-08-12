@@ -1,6 +1,6 @@
 <svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Tusher Ahmed</title>
-  <desc id="desc">Software Engineer specializing in enterprise .NET and distributed systems</desc>
+  <desc id="desc">Software Engineer specializing in enterprise .NET and systems modernization</desc>
   <defs>
     <linearGradient id="background" x1="56" y1="20" x2="1135" y2="360" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0B1020"/>
@@ -44,7 +44,7 @@
   <rect x="74" y="76" width="5" height="208" rx="2.5" fill="url(#accent)"/>
   <text x="112" y="134" fill="#A78BFA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="4">HELLO, I'M</text>
   <text x="108" y="204" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="64" font-weight="750" letter-spacing="-2">Tusher Ahmed</text>
-  <text x="112" y="250" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="450">Software Engineer  •  Enterprise .NET  •  Distributed Systems</text>
+  <text x="112" y="250" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="450">Software Engineer  •  Enterprise .NET  •  Systems Modernization</text>
   <path d="M112 278H760" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
 
   <rect x="1" y="1" width="1198" height="358" rx="27" stroke="#FFFFFF" stroke-opacity="0.09" stroke-width="2"/>

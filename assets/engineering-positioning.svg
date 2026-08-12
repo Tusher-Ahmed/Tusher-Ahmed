@@ -1,0 +1,31 @@
+<svg width="1200" height="210" viewBox="0 0 1200 210" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering focus</title>
+  <desc id="desc">Building business-critical systems, improving established software, and connecting backend engineering with complete web experiences</desc>
+  <defs>
+    <linearGradient id="bg" x1="10" y1="10" x2="1190" y2="200" gradientUnits="userSpaceOnUse"><stop stop-color="#17152F"/><stop offset=".52" stop-color="#111A34"/><stop offset="1" stop-color="#082A34"/></linearGradient>
+    <linearGradient id="accent" x1="58" y1="0" x2="1142" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#A78BFA"/><stop offset=".5" stop-color="#7C3AED"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFF" stop-opacity=".08"/><stop offset="1" stop-color="#FFF" stop-opacity=".025"/></linearGradient>
+  </defs>
+  <rect width="1200" height="210" rx="22" fill="url(#bg)"/><rect x="1" y="1" width="1198" height="208" rx="21" stroke="#FFF" stroke-opacity=".1" stroke-width="2"/>
+  <g transform="translate(58 36)">
+    <rect width="338" height="122" rx="16" fill="url(#card)" stroke="#A78BFA" stroke-opacity=".28"/>
+    <text x="24" y="34" fill="#A78BFA" font-family="Inter,Segoe UI,Arial" font-size="12" font-weight="750" letter-spacing="2">01 · BUILD</text>
+    <text x="24" y="67" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial" font-size="20" font-weight="700">Business-critical systems</text>
+    <text x="24" y="94" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial" font-size="14">C# · .NET · secure APIs · SQL</text>
+  </g>
+  <path d="M396 97H431" stroke="#8B5CF6" stroke-width="2" stroke-dasharray="5 6"/><circle cx="413.5" cy="97" r="3" fill="#8B5CF6"/>
+  <g transform="translate(431 36)">
+    <rect width="338" height="122" rx="16" fill="url(#card)" stroke="#8B5CF6" stroke-opacity=".28"/>
+    <text x="24" y="34" fill="#C4B5FD" font-family="Inter,Segoe UI,Arial" font-size="12" font-weight="750" letter-spacing="2">02 · IMPROVE</text>
+    <text x="24" y="67" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial" font-size="20" font-weight="700">Established software</text>
+    <text x="24" y="94" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial" font-size="14">Performance · clarity · maintainability</text>
+  </g>
+  <path d="M769 97H804" stroke="#22D3EE" stroke-width="2" stroke-dasharray="5 6"/><circle cx="786.5" cy="97" r="3" fill="#22D3EE"/>
+  <g transform="translate(804 36)">
+    <rect width="338" height="122" rx="16" fill="url(#card)" stroke="#22D3EE" stroke-opacity=".28"/>
+    <text x="24" y="34" fill="#67E8F9" font-family="Inter,Segoe UI,Arial" font-size="12" font-weight="750" letter-spacing="2">03 · CONNECT</text>
+    <text x="24" y="67" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial" font-size="20" font-weight="700">Complete web experiences</text>
+    <text x="24" y="94" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial" font-size="14">ASP.NET Core · React · JavaScript</text>
+  </g>
+  <rect x="58" y="182" width="1084" height="3" rx="1.5" fill="url(#accent)"/>
+</svg>

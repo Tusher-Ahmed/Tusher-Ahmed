@@ -1,31 +1,29 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Tusher Ahmed — Software Engineer, Enterprise .NET and distributed systems" />
+  <img src="./assets/profile-banner.svg" width="100%" alt="Tusher Ahmed — Software Engineer, Enterprise .NET and systems modernization" />
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tusher-ahmed-6b9b70210)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tusher-Ahmed)
-[![Profile views](https://komarev.com/ghpvc/?username=Tusher-Ahmed&style=flat-square&color=6C63FF&label=Profile+views)](https://github.com/Tusher-Ahmed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tusher-ahmed-6b9b70210)
+[![Repositories](https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tusher-Ahmed?tab=repositories)
+[![Live project](https://img.shields.io/badge/Live-TaskFlow_Pro-0891B2?style=flat-square&logo=vercel&logoColor=white)](https://tusher-ahmed.github.io/Local-Todo/)
 
 </div>
 
-## Hello — I'm Tusher 👋
+## About me
 
-I'm a software engineer focused on building and evolving business-critical applications with **C# and .NET**. My day-to-day work spans backend architecture, secure APIs, data-heavy workflows, caching, event-driven integrations, and the web interfaces that bring those systems to life.
+I'm a software engineer focused on building and evolving business-critical applications with **C# and .NET**. My work spans backend architecture, secure APIs, data-heavy workflows, caching, and the web interfaces that bring those systems to life.
 
-I enjoy the engineering work that happens after the first demo: untangling complex domains, improving reliability, modernizing legacy systems, and making large codebases easier to change.
+I enjoy the engineering that begins after the first demo: untangling complex domains, improving performance and reliability, modernizing established systems, and making large codebases easier to change.
 
-```text
-Current focus  →  Enterprise .NET · distributed systems · performance · maintainability
-Strongest in   →  C# · ASP.NET Core · REST APIs · SQL · Redis · React
-Also building  →  React · JavaScript · responsive, accessible web interfaces
-```
+<div align="center">
+  <img src="./assets/engineering-positioning.svg" width="100%" alt="Tusher's focus: business-critical .NET systems, performance and maintainability, and complete web experiences" />
+</div>
 
 ## Engineering toolkit
 
 <div align="center">
-  <img src="./assets/engineering-toolkit.svg" width="100%" alt="Tusher Ahmed's engineering toolkit across application, architecture, data, and delivery layers" />
+  <img src="./assets/engineering-toolkit.svg" width="100%" alt="Tusher Ahmed's engineering toolkit across application, architecture, data, and workflow layers" />
 </div>
 
 <p align="center">
@@ -74,14 +72,6 @@ Also building  →  React · JavaScript · responsive, accessible web interfaces
   &nbsp;·&nbsp;
   <a href="https://tusher-ahmed.github.io/Local-Todo/"><strong>Open the live product →</strong></a>
 </p>
-
-## Engineering profile
-
-<div align="center">
-  <a href="https://github.com/Tusher-Ahmed?tab=repositories">
-    <img src="./assets/engineering-profile.svg" width="100%" alt="Tusher Ahmed's engineering profile: 30 public repositories, C# and JavaScript, building on GitHub since 2021" />
-  </a>
-</div>
 
 <br/>
 
