@@ -1,92 +1,91 @@
 <div align="center">
+  <img src="./assets/profile-banner.svg" width="100%" alt="Tusher Ahmed — Software Engineer, Enterprise .NET and distributed systems" />
+</div>
 
-  # Hi there, I'm Tusher Ahmed 👋
-  ### 🚀 Full-Stack Software Engineer (.NET Core & React Specialist)
+<div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer+%7C+ASP.NET+Core+%26+React.js;Specialized+in+Dynamic+Role-Based+Authorization;Architecting+Robust+C%23+Backends+%26+Modern+Frontends;Passionate+About+Clean+Architecture+%26+Web+Security)](https://git.io/typing-svg)
-
-  <p align="center">
-    <a href="https://github.com/Tusher-Ahmed?tab=repositories"><b>View All Repositories »</b></a>
-  </p>
-
-  <p>
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:tusher.ahmed@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://github.com/Tusher-Ahmed"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tusher-ahmed-6b9b70210)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tusher-Ahmed)
+[![Profile views](https://komarev.com/ghpvc/?username=Tusher-Ahmed&style=flat-square&color=6C63FF&label=Profile+views)](https://github.com/Tusher-Ahmed)
 
 </div>
 
----
+## Hello — I'm Tusher 👋
 
-### 👨‍💻 About Me
+I'm a software engineer focused on building and evolving business-critical applications with **C# and .NET**. My day-to-day work spans backend architecture, secure APIs, data-heavy workflows, caching, event-driven integrations, and the web interfaces that bring those systems to life.
 
-- 🔭 **Backend Architecture**: Specialized in **ASP.NET Core**, **C#**, and custom security authorization engines (Dynamic Role-Based & User-Based Authorization).
-- ⚡ **Frontend Engineering**: Building high-performance, interactive Single Page Applications (SPAs) with **React 18**, **Vite**, and modern **JavaScript (ES6+)**.
-- 🛠️ **Full-Stack Proficiency**: Seamlessly integrating robust .NET backends with responsive, glassmorphic React frontends.
-- 🎯 **Engineering Focus**: Clean Architecture, RESTful Web API design, Web Security, AJAX async operations, and scalable state persistence.
-- 💬 **Ask me about**: ASP.NET Core Security, Role-Based Authorization, C#, React Component Patterns, and MVC Architecture.
+I enjoy the engineering work that happens after the first demo: untangling complex domains, improving reliability, modernizing legacy systems, and making large codebases easier to change.
 
----
+```text
+Current focus  →  Enterprise .NET · distributed systems · performance · maintainability
+Strongest in   →  C# · ASP.NET Core · REST APIs · SQL · Redis · Kafka
+Also building  →  React · JavaScript · responsive, accessible web interfaces
+```
 
-### 🛠️ Tech Stack & Ecosystem
+## What I work with
 
-#### ⚙️ Backend & Languages
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <strong>Backend & architecture</strong><br/><br/>
+      C# · .NET 8 · ASP.NET Core<br/>
+      MVC · REST APIs · JWT<br/>
+      NHibernate · Dapper<br/>
+      N-tier & modular architecture
+    </td>
+    <td valign="top" width="33%">
+      <strong>Data & distributed systems</strong><br/><br/>
+      SQL Server · PostgreSQL<br/>
+      Redis · MongoDB<br/>
+      ClickHouse · SingleStore<br/>
+      Kafka · caching · event streaming
+    </td>
+    <td valign="top" width="33%">
+      <strong>Frontend & delivery</strong><br/><br/>
+      React · JavaScript · Vite<br/>
+      HTML · CSS · Razor<br/>
+      Git · CI/CD · testing<br/>
+      AWS S3 · API integrations
+    </td>
+  </tr>
+</table>
 
-#### 💻 Frontend & UI Development
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/AJAX-00758F?style=for-the-badge&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+## Selected work
 
-#### 🔧 Developer Tools
-<p>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-</p>
+| Project | What it demonstrates | Stack |
+|---|---|---|
+| [Dynamic Role-Based Authorization](https://github.com/Tusher-Ahmed/Dynamic-Role-Based-Authorization-Asp.Net-Core) | Runtime role and permission management for ASP.NET Core applications | C# · ASP.NET Core · Security |
+| [Dynamic User-Based Authorization](https://github.com/Tusher-Ahmed/Dynamic-User-Based-Authorization-ASP.Net-Core) | Fine-grained authorization at the individual-user level | C# · ASP.NET Core · Authorization |
+| [TaskFlow Pro](https://github.com/Tusher-Ahmed/Local-Todo) · [Live demo](https://tusher-ahmed.github.io/Local-Todo/) | A polished task manager with Kanban and list views, command palette, subtasks, analytics, themes, and local persistence | React 18 · Vite · JavaScript |
+| [StackOverflow Clone](https://github.com/Tusher-Ahmed/StackOverflowClone) | A full-stack Q&A application exploring authentication, content, voting, and tags | ASP.NET MVC · C# · JavaScript |
+| [ASP.NET MVC Patterns](https://github.com/Tusher-Ahmed?tab=repositories&q=MVC&type=&language=&sort=) | Focused examples for AJAX workflows, pagination, search, CRUD, and strongly typed helpers | ASP.NET MVC · AJAX · JavaScript |
 
----
+## Engineering snapshot
 
-### 🌟 Featured Open-Source Projects
+- Contributing to a production education ERP spanning student, teacher, exam, finance, scheduling, and content workflows.
+- Comfortable across modular services, web APIs, background processes, desktop utilities, caching layers, and database integrations.
+- Experienced with authorization design, repository and unit-of-work patterns, event-driven messaging, and automated tests.
+- Interested in pragmatic modernization: moving established systems forward without losing their hard-earned domain knowledge.
 
-| Project | Description | Stack | Links |
-| :--- | :--- | :--- | :--- |
-| 🔒 **Dynamic Role-Based Authorization** | Enterprise security module implementing dynamic role-based permissions and claim policies in ASP.NET Core. | C#, ASP.NET Core, Security | [Repository](https://github.com/Tusher-Ahmed/Dynamic-Role-Based-Authorization-Asp.Net-Core) |
-| ⚡ **TaskFlow Pro (Local-Todo)** | Advanced React 18 Task Management application featuring Kanban board, Spotlight `Ctrl+K` command palette, nested subtasks, and productivity analytics. | React 18, Vite, LocalStorage, CSS | [Repository](https://github.com/Tusher-Ahmed/Local-Todo) • [Live Demo](https://tusher-ahmed.github.io/Local-Todo/) |
-| 🙋‍♂️ **StackOverflow Clone** | Full-stack Q&A web application featuring question voting, tag categorization, and user authentication. | C#, ASP.NET MVC, JavaScript | [Repository](https://github.com/Tusher-Ahmed/StackOverflowClone) |
-| ⚡ **AJAX MVC Web Modules** | Asynchronous pagination, dynamic index CRUD, and strongly-typed HTML helper extensions for ASP.NET MVC. | C#, ASP.NET MVC, AJAX, JS | [Repository](https://github.com/Tusher-Ahmed/AjaxMvcLoadMoreFunctionality) |
-
----
-
-### 📊 GitHub Activity & Statistics
+## GitHub at a glance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tusher-Ahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tusher's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusher-Ahmed&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Tusher-Ahmed&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Tusher-Ahmed&show_icons=true&hide_border=true&bg_color=00000000&title_color=6D28D9&icon_color=0891B2&text_color=24292F&rank_icon=github" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tusher-Ahmed&show_icons=true&hide_border=true&rank_icon=github" alt="Tusher's GitHub statistics" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusher-Ahmed&layout=compact&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=C9D1D9&langs_count=6" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusher-Ahmed&layout=compact&hide_border=true&bg_color=00000000&title_color=6D28D9&text_color=24292F&langs_count=6" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusher-Ahmed&layout=compact&hide_border=true&langs_count=6" alt="Tusher's most-used public repository languages" />
+  </picture>
 </div>
 
-<br />
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tusher-Ahmed&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</div>
-
----
-
-<div align="center">
-  <sub>Engineered with ❤️ by Tusher Ahmed</sub>
+  <em>Let's build software that stays understandable as it grows.</em>
+  <br/><br/>
+  <img src="./assets/signature.svg" width="230" alt="Tusher Ahmed" />
 </div>
