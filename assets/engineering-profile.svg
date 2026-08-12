@@ -1,0 +1,60 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Tusher Ahmed's engineering profile</title>
+  <desc id="desc">30 public repositories, primarily C# and JavaScript, building on GitHub since 2021</desc>
+  <defs>
+    <linearGradient id="panel" x1="20" y1="10" x2="1170" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#11152B"/>
+      <stop offset="0.52" stop-color="#17163A"/>
+      <stop offset="1" stop-color="#082333"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="82" y1="56" x2="1090" y2="248" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA"/>
+      <stop offset="0.52" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FFFFFF" stop-opacity="0.09"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.035"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#FFFFFF" fill-opacity="0.045"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" rx="24" fill="url(#panel)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#dots)"/>
+  <rect x="1" y="1" width="1198" height="298" rx="23" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="2"/>
+
+  <text x="62" y="58" fill="#A78BFA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="3">PROFILE SNAPSHOT</text>
+  <text x="62" y="94" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="650">Building dependable software across the stack</text>
+
+  <g>
+    <rect x="62" y="126" width="250" height="112" rx="16" fill="url(#card)" stroke="#A78BFA" stroke-opacity="0.26"/>
+    <text x="86" y="173" fill="#A78BFA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="750">30</text>
+    <text x="86" y="205" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="550">public repositories</text>
+    <circle cx="278" cy="155" r="8" fill="#A78BFA" fill-opacity="0.85"/>
+  </g>
+
+  <g>
+    <rect x="332" y="126" width="250" height="112" rx="16" fill="url(#card)" stroke="#8B5CF6" stroke-opacity="0.26"/>
+    <text x="356" y="173" fill="#C4B5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="750">C# + JS</text>
+    <text x="356" y="205" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="550">core public languages</text>
+    <path d="M546 149L556 159L546 169" stroke="#8B5CF6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <g>
+    <rect x="602" y="126" width="250" height="112" rx="16" fill="url(#card)" stroke="#22D3EE" stroke-opacity="0.26"/>
+    <text x="626" y="173" fill="#67E8F9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="750">Since 2021</text>
+    <text x="626" y="205" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="550">building in public</text>
+    <circle cx="817" cy="155" r="8" fill="#22D3EE" fill-opacity="0.85"/>
+  </g>
+
+  <g>
+    <rect x="872" y="126" width="266" height="112" rx="16" fill="url(#card)" stroke="#38BDF8" stroke-opacity="0.26"/>
+    <text x="896" y="164" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">ENGINEERING FOCUS</text>
+    <text x="896" y="192" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">APIs  •  Security  •  Data</text>
+    <text x="896" y="217" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">Caching  •  Event streaming</text>
+  </g>
+
+  <rect x="62" y="260" width="1076" height="3" rx="1.5" fill="url(#accent)"/>
+</svg>

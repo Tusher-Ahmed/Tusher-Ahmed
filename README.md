@@ -67,19 +67,12 @@ Also building  →  React · JavaScript · responsive, accessible web interfaces
 - Experienced with authorization design, repository and unit-of-work patterns, event-driven messaging, and automated tests.
 - Interested in pragmatic modernization: moving established systems forward without losing their hard-earned domain knowledge.
 
-## GitHub at a glance
+## Engineering profile
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Tusher-Ahmed&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Tusher-Ahmed&show_icons=true&hide_border=true&bg_color=00000000&title_color=6D28D9&icon_color=0891B2&text_color=24292F&rank_icon=github" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tusher-Ahmed&show_icons=true&hide_border=true&rank_icon=github" alt="Tusher's GitHub statistics" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusher-Ahmed&layout=compact&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=C9D1D9&langs_count=6" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusher-Ahmed&layout=compact&hide_border=true&bg_color=00000000&title_color=6D28D9&text_color=24292F&langs_count=6" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusher-Ahmed&layout=compact&hide_border=true&langs_count=6" alt="Tusher's most-used public repository languages" />
-  </picture>
+  <a href="https://github.com/Tusher-Ahmed?tab=repositories">
+    <img src="./assets/engineering-profile.svg" width="100%" alt="Tusher Ahmed's engineering profile: 30 public repositories, C# and JavaScript, building on GitHub since 2021" />
+  </a>
 </div>
 
 <br/>
