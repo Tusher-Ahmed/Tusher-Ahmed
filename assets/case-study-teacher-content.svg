@@ -1,0 +1,26 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Teacher Content Delivery</title>
+  <desc id="desc">A cross-application commercial feature spanning portals, APIs, permissions, caching, scheduling, and media workflows</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse"><stop stop-color="#131936"/><stop offset=".55" stop-color="#111A32"/><stop offset="1" stop-color="#073039"/></linearGradient>
+    <linearGradient id="accent" x1="62" y1="0" x2="1138" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#8B5CF6"/><stop offset=".52" stop-color="#38BDF8"/><stop offset="1" stop-color="#34D399"/></linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFF" stop-opacity=".085"/><stop offset="1" stop-color="#FFF" stop-opacity=".025"/></linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" stroke="#FFF" stroke-opacity=".03"/></pattern>
+  </defs>
+  <rect width="1200" height="260" rx="24" fill="url(#bg)"/><rect width="1200" height="260" rx="24" fill="url(#grid)"/><rect x="1" y="1" width="1198" height="258" rx="23" stroke="#FFF" stroke-opacity=".1" stroke-width="2"/>
+
+  <rect x="62" y="36" width="144" height="29" rx="14.5" fill="#22D3EE" fill-opacity=".12" stroke="#67E8F9" stroke-opacity=".35"/>
+  <text x="80" y="56" fill="#A5F3FC" font-family="Inter,Segoe UI,Arial" font-size="12" font-weight="750" letter-spacing="1.5">PRIVATE · PROD</text>
+  <text x="62" y="106" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial" font-size="33" font-weight="750">Teacher Content Delivery</text>
+  <text x="62" y="140" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial" font-size="18">One feature carried across portals, APIs, permissions, caching, and media workflows.</text>
+  <text x="62" y="190" fill="#C4B5FD" font-family="Inter,Segoe UI,Arial" font-size="14" font-weight="650">ASP.NET CORE</text><text x="184" y="190" fill="#475569" font-family="Arial" font-size="14">•</text><text x="207" y="190" fill="#7DD3FC" font-family="Inter,Segoe UI,Arial" font-size="14" font-weight="650">CROSS-PORTAL</text><text x="330" y="190" fill="#475569" font-family="Arial" font-size="14">•</text><text x="353" y="190" fill="#A7F3D0" font-family="Inter,Segoe UI,Arial" font-size="14" font-weight="650">SCHEDULED PROCESSING</text><text x="532" y="190" fill="#475569" font-family="Arial" font-size="14">•</text><text x="555" y="190" fill="#7DD3FC" font-family="Inter,Segoe UI,Arial" font-size="14" font-weight="650">CACHE-AWARE</text>
+
+  <g transform="translate(813 31)">
+    <rect x="0" y="69" width="112" height="52" rx="11" fill="url(#card)" stroke="#A78BFA" stroke-opacity=".3"/><text x="27" y="100" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial" font-size="13" font-weight="650">ERP</text>
+    <rect x="146" y="0" width="146" height="52" rx="11" fill="url(#card)" stroke="#38BDF8" stroke-opacity=".3"/><text x="170" y="31" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial" font-size="13" font-weight="650">Teacher Portal</text>
+    <rect x="180" y="69" width="112" height="52" rx="11" fill="url(#card)" stroke="#38BDF8" stroke-opacity=".3"/><text x="218" y="100" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial" font-size="13" font-weight="650">API</text>
+    <rect x="72" y="148" width="148" height="52" rx="11" fill="url(#card)" stroke="#34D399" stroke-opacity=".3"/><text x="94" y="179" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial" font-size="13" font-weight="650">Content + Media</text>
+    <path d="M112 95H180M219 52V69M56 121V135H146V148M236 121V135H146" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <path d="M62 231H1138" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+</svg>
