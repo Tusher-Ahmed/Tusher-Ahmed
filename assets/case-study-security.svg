@@ -1,0 +1,13 @@
+<svg width="1200" height="240" viewBox="0 0 1200 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Dynamic Authorization Architecture</title><desc id="desc">Role-based and user-based authorization for fine-grained runtime access control</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1200" y2="240" gradientUnits="userSpaceOnUse"><stop stop-color="#211236"/><stop offset=".55" stop-color="#181634"/><stop offset="1" stop-color="#102336"/></linearGradient><linearGradient id="accent" x1="60" y1="0" x2="1140" y2="0"><stop stop-color="#F472B6"/><stop offset=".55" stop-color="#A78BFA"/><stop offset="1" stop-color="#38BDF8"/></linearGradient></defs>
+  <rect width="1200" height="240" rx="24" fill="url(#bg)"/><rect x="1" y="1" width="1198" height="238" rx="23" stroke="#FFF" stroke-opacity=".1" stroke-width="2"/>
+  <text x="64" y="53" fill="#F9A8D4" font-family="Inter,Segoe UI,Arial" font-size="14" font-weight="700" letter-spacing="2.4">SECURITY ARCHITECTURE</text>
+  <text x="64" y="100" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial" font-size="32" font-weight="750">Dynamic authorization, designed for change</text>
+  <text x="64" y="135" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial" font-size="18">Fine-grained role and user permissions without hard-coding every access decision.</text>
+  <rect x="64" y="169" width="150" height="34" rx="17" fill="#F472B6" fill-opacity=".13"/><text x="88" y="191" fill="#FBCFE8" font-family="Inter,Segoe UI,Arial" font-size="13" font-weight="650">Policy evaluation</text>
+  <rect x="226" y="169" width="148" height="34" rx="17" fill="#A78BFA" fill-opacity=".14"/><text x="250" y="191" fill="#DDD6FE" font-family="Inter,Segoe UI,Arial" font-size="13" font-weight="650">Runtime control</text>
+  <rect x="386" y="169" width="174" height="34" rx="17" fill="#38BDF8" fill-opacity=".13"/><text x="410" y="191" fill="#BAE6FD" font-family="Inter,Segoe UI,Arial" font-size="13" font-weight="650">ASP.NET Core MVC</text>
+  <g transform="translate(855 36)"><path d="M94 0L174 30V87C174 135 142 169 94 181C46 169 14 135 14 87V30L94 0Z" fill="#A78BFA" fill-opacity=".12" stroke="url(#accent)" stroke-width="3"/><rect x="59" y="72" width="70" height="58" rx="10" fill="#0F172A" stroke="#C4B5FD" stroke-width="3"/><path d="M74 72V55C74 28 114 28 114 55V72" stroke="#C4B5FD" stroke-width="5" stroke-linecap="round"/><circle cx="94" cy="98" r="7" fill="#38BDF8"/><path d="M94 105V116" stroke="#38BDF8" stroke-width="5" stroke-linecap="round"/></g>
+  <path d="M64 220H1136" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+</svg>

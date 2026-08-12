@@ -50,22 +50,48 @@ Also building  →  React · JavaScript · responsive, accessible web interfaces
   </tr>
 </table>
 
-## Selected work
+## Selected engineering work
 
-| Project | What it demonstrates | Stack |
-|---|---|---|
-| [Dynamic Role-Based Authorization](https://github.com/Tusher-Ahmed/Dynamic-Role-Based-Authorization-Asp.Net-Core) | Runtime role and permission management for ASP.NET Core applications | C# · ASP.NET Core · Security |
-| [Dynamic User-Based Authorization](https://github.com/Tusher-Ahmed/Dynamic-User-Based-Authorization-ASP.Net-Core) | Fine-grained authorization at the individual-user level | C# · ASP.NET Core · Authorization |
-| [TaskFlow Pro](https://github.com/Tusher-Ahmed/Local-Todo) · [Live demo](https://tusher-ahmed.github.io/Local-Todo/) | A polished task manager with Kanban and list views, command palette, subtasks, analytics, themes, and local persistence | React 18 · Vite · JavaScript |
-| [StackOverflow Clone](https://github.com/Tusher-Ahmed/StackOverflowClone) | A full-stack Q&A application exploring authentication, content, voting, and tags | ASP.NET MVC · C# · JavaScript |
-| [ASP.NET MVC Patterns](https://github.com/Tusher-Ahmed?tab=repositories&q=MVC&type=&language=&sort=) | Focused examples for AJAX workflows, pagination, search, CRUD, and strongly typed helpers | ASP.NET MVC · AJAX · JavaScript |
+> A closer look at the systems, architecture, and product thinking behind my work.
 
-## Engineering snapshot
+<a href="#enterprise-education-erp">
+  <img src="./assets/case-study-erp.svg" width="100%" alt="Enterprise Education ERP case study" />
+</a>
 
-- Contributing to a production education ERP spanning student, teacher, exam, finance, scheduling, and content workflows.
-- Comfortable across modular services, web APIs, background processes, desktop utilities, caching layers, and database integrations.
-- Experienced with authorization design, repository and unit-of-work patterns, event-driven messaging, and automated tests.
-- Interested in pragmatic modernization: moving established systems forward without losing their hard-earned domain knowledge.
+<details id="enterprise-education-erp">
+  <summary><strong>Inside the system — architecture and scope</strong></summary>
+  <br/>
+
+- A production platform serving interconnected **student, teacher, exam, finance, scheduling, and content** workflows.
+- Modular **.NET 8** web applications, REST APIs, background services, and Windows desktop utilities.
+- Polyglot persistence across **SQL Server, PostgreSQL, ClickHouse, SingleStore, MongoDB, and Redis**.
+- Event-driven integrations through **Kafka**, with AWS S3, video processing, Zoom, and payment services.
+- Ongoing modernization of a mature codebase using layered architecture, repositories, caching, testing, and CI/CD.
+
+<sub>Commercial code is private; the architecture summary reflects the system I actively contribute to.</sub>
+</details>
+
+<br/>
+
+<a href="https://github.com/Tusher-Ahmed/Dynamic-Role-Based-Authorization-Asp.Net-Core">
+  <img src="./assets/case-study-security.svg" width="100%" alt="Dynamic authorization architecture case study" />
+</a>
+
+<p align="right">
+  <a href="https://github.com/Tusher-Ahmed/Dynamic-Role-Based-Authorization-Asp.Net-Core"><strong>Role-based implementation →</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Tusher-Ahmed/Dynamic-User-Based-Authorization-ASP.Net-Core"><strong>User-based implementation →</strong></a>
+</p>
+
+<a href="https://tusher-ahmed.github.io/Local-Todo/">
+  <img src="./assets/case-study-taskflow.svg" width="100%" alt="TaskFlow Pro product engineering case study" />
+</a>
+
+<p align="right">
+  <a href="https://github.com/Tusher-Ahmed/Local-Todo"><strong>Explore the code →</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://tusher-ahmed.github.io/Local-Todo/"><strong>Open the live product →</strong></a>
+</p>
 
 ## Engineering profile
 
