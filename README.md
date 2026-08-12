@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tusher-ahmed-6b9b70210)
 [![Repositories](https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tusher-Ahmed?tab=repositories)
-[![Authorization](https://img.shields.io/badge/Code-Authorization_lab-6D28D9?style=flat-square&logo=dotnet&logoColor=white)](https://github.com/Tusher-Ahmed/Dynamic-Role-Based-Authorization-Asp.Net-Core)
 
 </div>
 
