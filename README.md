@@ -22,33 +22,15 @@ Strongest in   →  C# · ASP.NET Core · REST APIs · SQL · Redis · Kafka
 Also building  →  React · JavaScript · responsive, accessible web interfaces
 ```
 
-## What I work with
+## Engineering toolkit
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <strong>Backend & architecture</strong><br/><br/>
-      C# · .NET 8 · ASP.NET Core<br/>
-      MVC · REST APIs · JWT<br/>
-      NHibernate · Dapper<br/>
-      N-tier & modular architecture
-    </td>
-    <td valign="top" width="33%">
-      <strong>Data & distributed systems</strong><br/><br/>
-      SQL Server · PostgreSQL<br/>
-      Redis · MongoDB<br/>
-      ClickHouse · SingleStore<br/>
-      Kafka · caching · event streaming
-    </td>
-    <td valign="top" width="33%">
-      <strong>Frontend & delivery</strong><br/><br/>
-      React · JavaScript · Vite<br/>
-      HTML · CSS · Razor<br/>
-      Git · CI/CD · testing<br/>
-      AWS S3 · API integrations
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="./assets/engineering-toolkit.svg" width="100%" alt="Tusher Ahmed's engineering toolkit across application, architecture, data, and delivery layers" />
+</div>
+
+<p align="center">
+  <sub>Depth in the Microsoft ecosystem, with practical experience across distributed data, event streaming, and modern frontend delivery.</sub>
+</p>
 
 ## Selected engineering work
 

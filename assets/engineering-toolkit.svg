@@ -1,0 +1,69 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering toolkit</title>
+  <desc id="desc">Technologies organized across application, architecture, data, and delivery layers</desc>
+  <defs>
+    <linearGradient id="bg" x1="20" y1="20" x2="1180" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#14132F"/><stop offset=".5" stop-color="#101932"/><stop offset="1" stop-color="#072B34"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="60" y1="0" x2="1140" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA"/><stop offset=".5" stop-color="#7C3AED"/><stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FFFFFF" stop-opacity=".085"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".025"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#FFF" stroke-opacity=".028"/></pattern>
+  </defs>
+
+  <rect width="1200" height="430" rx="24" fill="url(#bg)"/><rect width="1200" height="430" rx="24" fill="url(#grid)"/><rect x="1" y="1" width="1198" height="428" rx="23" stroke="#FFF" stroke-opacity=".1" stroke-width="2"/>
+
+  <text x="62" y="54" fill="#A78BFA" font-family="Inter,Segoe UI,Arial" font-size="14" font-weight="700" letter-spacing="2.6">FROM INTERFACE TO INFRASTRUCTURE</text>
+  <text x="62" y="92" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial" font-size="25" font-weight="700">A stack shaped by real production systems</text>
+  <path d="M62 112H1138" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+
+  <g transform="translate(62 139)">
+    <rect width="250" height="226" rx="17" fill="url(#card)" stroke="#A78BFA" stroke-opacity=".28"/>
+    <circle cx="34" cy="35" r="16" fill="#A78BFA" fill-opacity=".16"/><path d="M26 35L32 41L43 29" stroke="#C4B5FD" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="60" y="41" fill="#DDD6FE" font-family="Inter,Segoe UI,Arial" font-size="14" font-weight="700" letter-spacing="1.2">APPLICATION</text>
+    <text x="24" y="82" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial" font-size="21" font-weight="700">Web experiences</text>
+    <text x="24" y="113" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial" font-size="14">ASP.NET Core MVC</text>
+    <text x="24" y="138" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial" font-size="14">React · JavaScript · Vite</text>
+    <text x="24" y="163" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial" font-size="14">Razor · HTML · CSS</text>
+    <rect x="24" y="185" width="105" height="25" rx="12.5" fill="#A78BFA" fill-opacity=".14"/><text x="40" y="202" fill="#C4B5FD" font-family="Inter,Segoe UI,Arial" font-size="11" font-weight="650">FULL STACK</text>
+  </g>
+
+  <g transform="translate(337 139)">
+    <rect width="250" height="226" rx="17" fill="url(#card)" stroke="#8B5CF6" stroke-opacity=".28"/>
+    <circle cx="34" cy="35" r="16" fill="#8B5CF6" fill-opacity=".16"/><path d="M26 40V30L34 25L42 30V40L34 45L26 40Z" stroke="#C4B5FD" stroke-width="2"/><circle cx="34" cy="35" r="3" fill="#C4B5FD"/>
+    <text x="60" y="41" fill="#DDD6FE" font-family="Inter,Segoe UI,Arial" font-size="14" font-weight="700" letter-spacing="1.2">ARCHITECTURE</text>
+    <text x="24" y="82" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial" font-size="21" font-weight="700">Services &amp; APIs</text>
+    <text x="24" y="113" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial" font-size="14">C# · .NET 8 · REST</text>
+    <text x="24" y="138" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial" font-size="14">JWT · authorization</text>
+    <text x="24" y="163" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial" font-size="14">Modular · N-tier patterns</text>
+    <rect x="24" y="185" width="112" height="25" rx="12.5" fill="#8B5CF6" fill-opacity=".14"/><text x="40" y="202" fill="#C4B5FD" font-family="Inter,Segoe UI,Arial" font-size="11" font-weight="650">CORE DEPTH</text>
+  </g>
+
+  <g transform="translate(612 139)">
+    <rect width="250" height="226" rx="17" fill="url(#card)" stroke="#0EA5E9" stroke-opacity=".28"/>
+    <circle cx="34" cy="35" r="16" fill="#0EA5E9" fill-opacity=".14"/><ellipse cx="34" cy="30" rx="9" ry="4" stroke="#7DD3FC" stroke-width="2"/><path d="M25 30V40C25 45 43 45 43 40V30M25 35C25 40 43 40 43 35" stroke="#7DD3FC" stroke-width="2"/>
+    <text x="60" y="41" fill="#BAE6FD" font-family="Inter,Segoe UI,Arial" font-size="14" font-weight="700" letter-spacing="1.2">DATA</text>
+    <text x="24" y="82" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial" font-size="21" font-weight="700">Persistence &amp; speed</text>
+    <text x="24" y="113" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial" font-size="14">SQL Server · PostgreSQL</text>
+    <text x="24" y="138" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial" font-size="14">Redis · ClickHouse</text>
+    <text x="24" y="163" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial" font-size="14">NHibernate · Dapper</text>
+    <rect x="24" y="185" width="128" height="25" rx="12.5" fill="#0EA5E9" fill-opacity=".14"/><text x="40" y="202" fill="#7DD3FC" font-family="Inter,Segoe UI,Arial" font-size="11" font-weight="650">DATA-INTENSIVE</text>
+  </g>
+
+  <g transform="translate(887 139)">
+    <rect width="251" height="226" rx="17" fill="url(#card)" stroke="#22D3EE" stroke-opacity=".28"/>
+    <circle cx="34" cy="35" r="16" fill="#22D3EE" fill-opacity=".13"/><path d="M25 38L31 32L36 37L44 28M40 28H44V32" stroke="#67E8F9" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="60" y="41" fill="#A5F3FC" font-family="Inter,Segoe UI,Arial" font-size="14" font-weight="700" letter-spacing="1.2">DELIVERY</text>
+    <text x="24" y="82" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial" font-size="21" font-weight="700">Systems in motion</text>
+    <text x="24" y="113" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial" font-size="14">Kafka · event streaming</text>
+    <text x="24" y="138" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial" font-size="14">Git · CI/CD · testing</text>
+    <text x="24" y="163" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial" font-size="14">AWS S3 · integrations</text>
+    <rect x="24" y="185" width="117" height="25" rx="12.5" fill="#22D3EE" fill-opacity=".13"/><text x="40" y="202" fill="#67E8F9" font-family="Inter,Segoe UI,Arial" font-size="11" font-weight="650">PRODUCTION</text>
+  </g>
+
+  <g opacity=".75"><path d="M312 252H337M587 252H612M862 252H887" stroke="url(#accent)" stroke-width="2" stroke-dasharray="5 6"/><circle cx="324.5" cy="252" r="3" fill="#A78BFA"/><circle cx="599.5" cy="252" r="3" fill="#8B5CF6"/><circle cx="874.5" cy="252" r="3" fill="#22D3EE"/></g>
+  <text x="600" y="403" text-anchor="middle" fill="#94A3B8" font-family="Inter,Segoe UI,Arial" font-size="13" letter-spacing="1">DESIGN  →  BUILD  →  SCALE  →  OPERATE</text>
+</svg>
