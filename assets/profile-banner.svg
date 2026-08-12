@@ -51,12 +51,9 @@
   <text x="74" y="257" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22">Enterprise .NET  ·  Systems Modernization  ·  Web Engineering</text>
 
   <g transform="translate(74 291)">
-    <text x="0" y="20" fill="#94A3B8" font-family="Consolas,Monaco,monospace" font-size="14">engineering@tusher</text>
-    <text x="158" y="20" fill="#64748B" font-family="Consolas,Monaco,monospace" font-size="14">:</text>
-    <text x="166" y="20" fill="#67E8F9" font-family="Consolas,Monaco,monospace" font-size="14">~</text>
-    <text x="179" y="20" fill="#64748B" font-family="Consolas,Monaco,monospace" font-size="14">$</text>
-    <text x="197" y="20" fill="#E2E8F0" font-family="Consolas,Monaco,monospace" font-size="14">build --for-the-long-term</text>
-    <rect class="blink" x="421" y="7" width="8" height="16" rx="1" fill="#22D3EE"/>
+    <circle class="pulse" cx="7" cy="15" r="5" fill="#22D3EE"/>
+    <text x="24" y="21" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="550" letter-spacing=".4">Building software for the long term.</text>
+    <rect class="blink" x="294" y="8" width="7" height="16" rx="1" fill="#22D3EE"/>
   </g>
   <path class="shine" d="M74 336H695" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
 
