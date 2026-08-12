@@ -18,7 +18,7 @@ I enjoy the engineering work that happens after the first demo: untangling compl
 
 ```text
 Current focus  →  Enterprise .NET · distributed systems · performance · maintainability
-Strongest in   →  C# · ASP.NET Core · REST APIs · SQL · Redis · Kafka
+Strongest in   →  C# · ASP.NET Core · REST APIs · SQL · Redis · React
 Also building  →  React · JavaScript · responsive, accessible web interfaces
 ```
 
@@ -29,7 +29,7 @@ Also building  →  React · JavaScript · responsive, accessible web interfaces
 </div>
 
 <p align="center">
-  <sub>Depth in the Microsoft ecosystem, with practical experience across distributed data, event streaming, and modern frontend delivery.</sub>
+  <sub>Depth in the Microsoft ecosystem, with practical experience across data systems, caching, and modern frontend development.</sub>
 </p>
 
 ## Selected engineering work
@@ -47,8 +47,8 @@ Also building  →  React · JavaScript · responsive, accessible web interfaces
 - A production platform serving interconnected **student, teacher, exam, finance, scheduling, and content** workflows.
 - Modular **.NET 8** web applications, REST APIs, background services, and Windows desktop utilities.
 - Polyglot persistence across **SQL Server, PostgreSQL, ClickHouse, SingleStore, MongoDB, and Redis**.
-- Event-driven integrations through **Kafka**, with AWS S3, video processing, Zoom, and payment services.
-- Ongoing modernization of a mature codebase using layered architecture, repositories, caching, testing, and CI/CD.
+- External service integrations supporting media, communication, and payment workflows.
+- Ongoing modernization of a mature codebase using layered architecture, repositories, caching, and incremental migration.
 
 <sub>Commercial code is private; the architecture summary reflects the system I actively contribute to.</sub>
 </details>
